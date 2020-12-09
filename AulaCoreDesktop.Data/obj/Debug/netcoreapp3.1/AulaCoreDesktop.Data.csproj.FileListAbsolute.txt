@@ -1,0 +1,12 @@
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\bin\Debug\netcoreapp3.1\AulaCoreDesktop.Data.deps.json
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\bin\Debug\netcoreapp3.1\AulaCoreDesktop.Data.dll
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.csprojAssemblyReference.cache
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.AssemblyInfoInputs.cache
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.AssemblyInfo.cs
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\bin\Debug\netcoreapp3.1\AulaCoreDesktop.Data.pdb
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.dll
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.pdb
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\bin\Debug\netcoreapp3.1\AulaCoreDesktop.Data.runtimeconfig.json
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\bin\Debug\netcoreapp3.1\AulaCoreDesktop.Data.runtimeconfig.dev.json
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.genruntimeconfig.cache
+C:\Users\luizf\Desktop\Trabalhos\Core\AulaCoreDesktop\AulaCoreDesktop.Data\obj\Debug\netcoreapp3.1\AulaCoreDesktop.Data.csproj.CoreCompileInputs.cache
